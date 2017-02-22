@@ -1,16 +1,9 @@
 [
   {
-    "term": "http://publications.europa.eu/resource/authority/language/SQI",
+    "term": "http://publications.europa.eu/resource/authority/data-theme/EDUC",
     "translation": {
-      "en": "Albanian",
-      "da_DK": "albanska"
-    }
-  },
-  {
-    "term": "http://publications.europa.eu/resource/authority/language/SQI",
-    "translation": {
-      "en": "Albanian",
-      "da_DK": "albanska"
+      "en": "Education, culture and sport",
+      "da_DK": "Uddannelse, kultur og sport"
     }
   }
 ]
