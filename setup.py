@@ -22,5 +22,11 @@ setup(name='ckanext-termtranslation',
       ],
       entry_points="""
       # -*- Entry points: -*-
+      [ckan.plugins]
+      termtranslation=ckanext.termtranslation.plugin:TermTranslationPlugin
+
+      [paste.paster_command]
+	  term_translation = ckanext.termtranslation.commands:TermTranslation
+
       """,
       )
