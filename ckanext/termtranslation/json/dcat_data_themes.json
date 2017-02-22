@@ -1,0 +1,93 @@
+[
+  {
+    "term": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
+    "translation": {
+      "en": "Agriculture, fisheries, forestry and food",
+      "da_DK": "Landbrug, fiskeri, skovbrug og fødevarer"
+    }
+  },
+  {
+    "term": "http://publications.europa.eu/resource/authority/data-theme/ECON",
+    "translation": {
+      "en": "Economy and finance",
+      "da_DK": "Økonomi og finanser"
+    }
+  },
+  {
+    "term": "http://publications.europa.eu/resource/authority/data-theme/EDUC",
+    "translation": {
+      "en": "Education, culture and sport",
+      "da_DK": "Uddannelse, kultur og sport"
+    }
+  },
+  {
+    "term": "http://publications.europa.eu/resource/authority/data-theme/ENER",
+    "translation": {
+      "en": "Energy",
+      "da_DK": "Energi"
+    }
+  },
+  {
+    "term": "http://publications.europa.eu/resource/authority/data-theme/ENVI",
+    "translation": {
+      "en": "Environment",
+      "da_DK": "Miljø"
+    }
+  },
+  {
+    "term": "http://publications.europa.eu/resource/authority/data-theme/GOVE",
+    "translation": {
+      "en": "Education, culture and sport",
+      "da_DK": "Uddannelse, kultur og sport"
+    }
+  },
+  {
+    "term": "http://publications.europa.eu/resource/authority/data-theme/HEAL",
+    "translation": {
+      "en": "Health",
+      "da_DK": "Sundhed"
+    }
+  },
+  {
+    "term": "http://publications.europa.eu/resource/authority/data-theme/INTR",
+    "translation": {
+      "en": "International issues",
+      "da_DK": "Internationale spørgsmål"
+    }
+  },
+  {
+    "term": "http://publications.europa.eu/resource/authority/data-theme/JUST",
+    "translation": {
+      "en": "Justice, legal system and public safety",
+      "da_DK": "Retfærdighed, retssystem og offentlig sikkerhed"
+    }
+  },
+  {
+    "term": "http://publications.europa.eu/resource/authority/data-theme/SOCI",
+    "translation": {
+      "en": "Population and society",
+      "da_DK": "Befolkning og samfund"
+    }
+  },
+  {
+    "term": "http://publications.europa.eu/resource/authority/data-theme/REGI",
+    "translation": {
+      "en": "Regions and cities",
+      "da_DK": "Regioner og byer"
+    }
+  },
+  {
+    "term": "http://publications.europa.eu/resource/authority/data-theme/TECH",
+    "translation": {
+      "en": "Technology",
+      "da_DK": "Videnskab og teknologi"
+    }
+  },
+  {
+    "term": "http://publications.europa.eu/resource/authority/data-theme/TRAN",
+    "translation": {
+      "en": "Transport",
+      "da_DK": "Transport"
+    }
+  }
+]
